@@ -4,7 +4,7 @@ apply plugin: 'application'
 
     group = 'edu.elsmancs'
 
-mainClassName = 'edu.elsmancs.BiciPalma.domain.Main'
+mainClassName = 'appalma.BiciPalma'
 
 repositories {
     jcenter()
